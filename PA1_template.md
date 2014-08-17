@@ -1,7 +1,5 @@
 # Reproducible Research: Peer Assessment 1
 
-<hr />
-
 ## Loading and preprocessing the data
 
 The following script reads the data into a data frame called `activity`. The script assumes that you have the `activity.csv` source file in your working directory. 
